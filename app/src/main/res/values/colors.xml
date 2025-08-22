@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1E88E5</color>         <!-- Bleu principal doux et moderne -->
+    <color name="colorPrimary2">#F5F5F5</color>        <!-- Gris très clair, bon fond ou contraste doux -->
+    <color name="colorPrimary3">#90CAF9</color>        <!-- Bleu clair pour les surbrillances -->
+    <color name="colorPrimaryDark">#1565C0</color>     <!-- Bleu foncé pour le header ou l'appbar -->
+    <color name="colorPrimaryDark2">#0D47A1</color>    <!-- Variante plus foncée pour les boutons importants -->
+    <color name="colorAccent">#FFC107</color>         <!-- Accent jaune doré pour attirer l'attention -->
+    <color name="colorAccent2">#FFECB3</color>         <!-- Accent doux en jaune clair -->
+    <color name="white">#FFFFFF</color>               <!-- Blanc classique -->
+    <color name="colorbluegrey">#607D8B</color>       <!-- Bleu-gris doux et élégant -->
+    
+    <!-- Nouvelles couleurs pour les améliorations -->
+    <color name="primary_color">#1E88E5</color>        <!-- Couleur principale -->
+    <color name="secondary_color">#1565C0</color>      <!-- Couleur secondaire -->
+    <color name="accent_color">#FFC107</color>         <!-- Couleur d'accentuation -->
+    <color name="background_color">#F5F5F5</color>     <!-- Couleur de fond -->
+    <color name="primary_text_color">#212121</color>   <!-- Couleur de texte principale -->
+    <color name="secondary_text_color">#757575</color> <!-- Couleur de texte secondaire -->
+    
+    <!-- Couleurs pour les catégories -->
+    <color name="category_unlocked">#FFFFFF</color>    <!-- Fond pour catégorie déverrouillée -->
+    <color name="category_locked">#EEEEEE</color>      <!-- Fond pour catégorie verrouillée -->
+    <color name="category_text_unlocked">#212121</color> <!-- Texte pour catégorie déverrouillée -->
+    <color name="category_text_locked">#BDBDBD</color> <!-- Texte pour catégorie verrouillée -->
+    
+    <!-- Couleurs pour les difficultés -->
+    <color name="difficulty_easy">#4CAF50</color>      <!-- Vert pour difficulté facile -->
+    <color name="difficulty_medium">#FFC107</color>    <!-- Jaune pour difficulté moyenne -->
+    <color name="difficulty_hard">#F44336</color>      <!-- Rouge pour difficulté difficile -->
+</resources>
